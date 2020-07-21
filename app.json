@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Qenvi Smart App",
+    "icon": "./assets/icon/QENVI_ROBOTICS_LOGO.png",
+    "version": "1.0.0",
+    "privacy": "unlisted",
+    "orientation": "portrait",
+    "slug": "qenvi-smart-app",
+    "ios": {
+      "bundleIdentifier": "com.qenvi.smartreactapp"
+    },
+    "android": {
+      "package": "com.qenvi.smartreactapp",
+      "publishBundlePath": "android\\app\\src\\main\\assets\\shell-app.bundle",
+      "publishManifestPath": "android\\app\\src\\main\\assets\\shell-app-manifest.json"
+    }
+  }
+}
